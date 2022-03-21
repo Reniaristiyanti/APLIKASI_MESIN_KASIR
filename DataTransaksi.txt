@@ -1,0 +1,19 @@
+-------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 0
+Nama Barang   : baju
+Jumlah Barang : 3
+Harga Barang  : 80000
+-------------------------------
+Total Bayar   : 240000
+--------------------------------------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 2
+Nama Barang   : jilbab
+Jumlah Barang : 4
+Harga Barang  : 20000
+-------------------------------
+Total Bayar   : 80000
+-------------------------------
